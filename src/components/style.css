@@ -1,0 +1,7 @@
+.customHe {
+  height: calc(100vh - 56px);
+  background-color: rebeccapurple;
+}
+.customCard {
+  width: 60vw;
+}
